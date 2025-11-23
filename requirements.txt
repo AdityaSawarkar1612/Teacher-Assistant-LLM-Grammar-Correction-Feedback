@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+langchain
+langchain-community
+langchain-huggingface
+psycopg2-binary
+python-dotenv
+streamlit
